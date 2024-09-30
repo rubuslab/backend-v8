@@ -1,0 +1,3 @@
+[submodule "build_v8_with_switch_sdk"]
+	path = build_v8_with_switch_sdk
+	url = https://github.com/rubuslab/build_v8_with_switch_sdk.git
